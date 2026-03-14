@@ -34,7 +34,8 @@
  - do not ship this to a real controller without generous peer review and a proper safety lifecycle; the logic here is intentionally simple and could miss edge cases.
  - keep your simulation inputs clean, treat the sensors as imaginary troublemakers, and document every assumption before sharing results.
  
- ## ascii of who this project was named after ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ ## ascii of who this project was named after ⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⣧⠷⠆⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⣐⣢⣤⢖⠒⠪⣭⣶⣿⣦⠀⠀⠀⠀⠀⠀⠀
 ⠀⢸⣿⣿⣿⣌⠀⢀⣿⠁⢹⣿⡇⠀⠀⠀⠀⠀⠀
@@ -48,6 +49,7 @@
 ⠈⢿⣶⣤⣤⣤⣴⣾⣿⣿⡏⠀⣼⣿⣿⣿⡿⠁⠀
 ⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⠀⠀⣩⣿⡿⠋⠀⠀⠀
 ⠀⠀⠀⠀⠈⠙⠛⠿⠿⠿⠇⠀⠉⠁⠀⠀⠀⠀⠀
+
 not my ascii btw its from [beebe ascii art :>](https://emojicombos.com/BB--8-ascii-art)
 
 creds: lorush1
